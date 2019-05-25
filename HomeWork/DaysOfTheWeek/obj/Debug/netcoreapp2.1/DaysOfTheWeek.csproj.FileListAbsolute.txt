@@ -1,0 +1,11 @@
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\bin\Debug\netcoreapp2.1\DaysOfTheWeek.deps.json
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\bin\Debug\netcoreapp2.1\DaysOfTheWeek.runtimeconfig.json
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\bin\Debug\netcoreapp2.1\DaysOfTheWeek.runtimeconfig.dev.json
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\bin\Debug\netcoreapp2.1\DaysOfTheWeek.dll
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\bin\Debug\netcoreapp2.1\DaysOfTheWeek.pdb
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\obj\Debug\netcoreapp2.1\DaysOfTheWeek.csprojAssemblyReference.cache
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\obj\Debug\netcoreapp2.1\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\obj\Debug\netcoreapp2.1\DaysOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\obj\Debug\netcoreapp2.1\DaysOfTheWeek.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\obj\Debug\netcoreapp2.1\DaysOfTheWeek.dll
+C:\Users\Сергей\Desktop\HtpWork\HomeWork\DaysOfTheWeek\obj\Debug\netcoreapp2.1\DaysOfTheWeek.pdb

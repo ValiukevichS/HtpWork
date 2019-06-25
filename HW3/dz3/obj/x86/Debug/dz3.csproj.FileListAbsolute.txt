@@ -1,0 +1,6 @@
+/Users/valdis/Documents/Projects/dz3/dz3/bin/Debug/dz3.exe
+/Users/valdis/Documents/Projects/dz3/dz3/bin/Debug/dz3.pdb
+/Users/valdis/Documents/Projects/dz3/dz3/obj/x86/Debug/dz3.csprojAssemblyReference.cache
+/Users/valdis/Documents/Projects/dz3/dz3/obj/x86/Debug/dz3.csproj.CoreCompileInputs.cache
+/Users/valdis/Documents/Projects/dz3/dz3/obj/x86/Debug/dz3.exe
+/Users/valdis/Documents/Projects/dz3/dz3/obj/x86/Debug/dz3.pdb

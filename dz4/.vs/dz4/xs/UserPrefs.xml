@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C681032A-FDF5-4BA3-8A84-5273150AB78E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dz4/Program.cs">
+    <Files>
+      <File FileName="dz4/Program.cs" Line="253" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dz4" expanded="True">
+            <Node name="dz4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/Program.cs" relfile="dz4/Program.cs" line="258" column="1" />
+      <Breakpoint file="/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/Program.cs" relfile="dz4/Program.cs" line="109" column="1" />
+      <Breakpoint file="/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/Program.cs" relfile="dz4/Program.cs" line="213" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.dz4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

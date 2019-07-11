@@ -1,0 +1,6 @@
+/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/bin/Debug/dz4.exe
+/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/bin/Debug/dz4.pdb
+/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/obj/x86/Debug/dz4.csprojAssemblyReference.cache
+/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/obj/x86/Debug/dz4.csproj.CoreCompileInputs.cache
+/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/obj/x86/Debug/dz4.exe
+/Users/valdis/Documents/Projects/HtpWork/dz4/dz4/obj/x86/Debug/dz4.pdb
